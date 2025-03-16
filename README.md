@@ -1,6 +1,6 @@
-Audio Samples of the **MultiLingual Audio Deepfake Detection (MADD)**.
+Audio Samples of the **Official Audio Sample Demonstration of SWAR: A Longformer-Based GAN Vocoder for the Gujarati Language**.
 
-Usage: This website serves as the submission material for the TCS Research Proposal titled 'Multilingual Audio Deepfake Detection'.
+Usage: This website serves as the submission material for the **EUSIPCO 2025**.
 
 _**Ravindrakumar M. Purohit**, 
 Ph.D. Candidate, Speech Research Lab,
